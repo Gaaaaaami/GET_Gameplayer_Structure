@@ -1,0 +1,76 @@
+<mxfile host="Electron" modified="2024-04-16T11:20:42.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="2aERKM13vi9tK7eW6KMT" version="21.1.2" type="device">
+  <diagram name="第 1 页" id="q45z5JAz8Wa-VfHfGZaU">
+    <mxGraphModel dx="3958" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yvXTAKvyagWch7adbmAf-1" value="头像" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yvXTAKvyagWch7adbmAf-2" value="生命" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="910" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yvXTAKvyagWch7adbmAf-3" value="货币数量" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yvXTAKvyagWch7adbmAf-4" value="经验" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="940" width="190" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yvXTAKvyagWch7adbmAf-5" value="当前弹药数量/后备弹药" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yvXTAKvyagWch7adbmAf-6" value="升级界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="810" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-1" value="名字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.485;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WmsHL0i0_a3PZ9QAYMGG-3" target="WmsHL0i0_a3PZ9QAYMGG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="770" width="370" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-4" value="异常条，当异常满了，会受到一次灼烧、雷电或者其他伤害" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="660" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-6" value="等级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="940" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-7" value="boss血条" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-8" value="武器一" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="470" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-9" value="武器二" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="630" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-10" value="武器二" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="550" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-11" value="装备或道具栏" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-12" value="玩家一" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="390" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-13" value="玩家一" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="420" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-14" value="玩家一" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="450" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-15" value="玩家一" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="480" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-16" value="怪物" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="160" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WmsHL0i0_a3PZ9QAYMGG-17" value="生命" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="165" width="120" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
